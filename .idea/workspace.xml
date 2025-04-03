@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="867c0924-5861-4289-b4f1-eaab8d4feea5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/isl/com/HashUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/isl/com/LoginScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/isl/com/StockItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/isl/com/StockManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/isl/com/VendingMachineApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/isl/com/VendingMachineGUI.java" afterDir="false" />
+    <list default="true" id="867c0924-5861-4289-b4f1-eaab8d4feea5" name="Changes" comment="VendingMachineApp">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/isl/com/HashUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/isl/com/HashUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/isl/com/StockItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/isl/com/StockItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/isl/com/StockManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/isl/com/StockManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/isl/com/VendingMachineGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/isl/com/VendingMachineGUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,24 +37,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.VendingMachineApp.executor": "Run",
-    "Maven.VendingMachineApp [clean,install,-U].executor": "Run",
-    "Maven.VendingMachineApp [clean,install].executor": "Run",
-    "Maven.VendingMachineApp [clean,package].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.VendingMachineApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VendingMachineGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.VendingMachineApp [clean,install,-U].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.VendingMachineApp [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.VendingMachineApp [clean,package].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean install" />
@@ -86,11 +81,35 @@
       <option name="presentableId" value="Default" />
       <updated>1741852508443</updated>
       <workItem from="1741852509584" duration="835000" />
-      <workItem from="1741853353750" duration="1075000" />
+      <workItem from="1741853353750" duration="1142000" />
+      <workItem from="1741942271709" duration="42000" />
+      <workItem from="1741943802620" duration="1246000" />
+      <workItem from="1742205769993" duration="2079000" />
+      <workItem from="1742288289236" duration="2013000" />
+      <workItem from="1742374967494" duration="361000" />
+      <workItem from="1743061926492" duration="1601000" />
+      <workItem from="1743064603169" duration="132000" />
+      <workItem from="1743152184969" duration="2136000" />
+      <workItem from="1743493755332" duration="2687000" />
+      <workItem from="1743509652100" duration="5422000" />
+      <workItem from="1743582353082" duration="24000" />
     </task>
+    <task id="LOCAL-00001" summary="VendingMachineApp">
+      <option name="closed" value="true" />
+      <created>1741855074237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741855074237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="VendingMachineApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="VendingMachineApp" />
   </component>
 </project>
